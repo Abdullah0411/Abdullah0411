@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, figma,**
 
-- 👨‍💻 All of my projects are available at [(I will publish them soon)]((I will publish them soon))
+- 👨‍💻 All of my projects are available at ((I will publish them soon))
 
 - 💬 Ask me about **Bootstrap, HTML, Java, & JavaScript**
 
