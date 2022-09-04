@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate Software Engineering student from Saudi Arabia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah0411" alt="abdullah0411" /></a> </p>
-
 - 🌱 I’m currently learning **Django framework and Flutter**
 
 - 👨‍💻 All of my projects are available in my repos **my repos**
