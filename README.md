@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah0411&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah0411" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah0411" alt="abdullah0411" /></a> </p>
-
 - 🔭 I’m currently working on [mawqoot](https://www.mawqoot.com)
 
 - 🌱 I’m currently learning **Firebase**
